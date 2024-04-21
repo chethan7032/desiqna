@@ -11,7 +11,11 @@ Input format :
 Integer N (Total no. of rows)
 
 
+<<<<<<< HEAD
 Output format :sta
+=======
+Output format :
+>>>>>>> origin/master
 Pattern in N lines
 
 
